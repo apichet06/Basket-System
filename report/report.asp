@@ -46,7 +46,7 @@ If username ="" Then
      <div class="container-fluid">
          <div class="row justify-content-center"> 
             <div class="col-md-12 text-center">
-                  <h3>ประวัติรายงานการเปลี่ยนตระกร้า</h3> 
+                  <h3>รายงานประวัติการเปลี่ยนตระกร้า</h3> 
             </div>
             <hr/>
                         <div class="col-md-10"> 

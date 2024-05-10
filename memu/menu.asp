@@ -79,11 +79,11 @@ body {
            <% If part_file ="/basket/" Then %>
           <a class="dropdown-item" href="./Service">บันทึก-รายละเอียดการเปลี่ยนตระกร้า</a> 
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="./report/report.asp">ประวัติรายงานการเปลี่ยนตระกร้า</a> 
+          <a class="dropdown-item" href="./report/report.asp">ประวัติการเปลี่ยนตระกร้า</a> 
            <% Else %>
           <a class="dropdown-item" href="../Service">บันทึก-รายละเอียดการเปลี่ยนตระกร้า</a> 
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="../report/report.asp">ประวัติรายงานการเปลี่ยนตระกร้า</a>
+          <a class="dropdown-item" href="../report/report.asp">ประวัติการเปลี่ยนตระกร้า</a>
         
            <% End if %>
         </div>
